@@ -1,0 +1,1 @@
+A CSV list of 75,000 quotes (columns: quote, author, category). Source: [https://thewebminer.com](https://thewebminer.com/buy-famous-quotes-database)
