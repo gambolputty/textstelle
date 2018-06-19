@@ -1,4 +1,4 @@
-# Deutsche Substantive
+## Deutsche Substantive
 Eine kommaseparierte Liste von ~ 79.000 deutschen Substantiven und ihren grammatischen Eigenschaften (*Tempus, Numerus, Genus*).
 
 Informationen zu den CSV-Spalten sind [hier](https://de.wiktionary.org/wiki/Hilfe:Flexionstabellen) zu finden.
