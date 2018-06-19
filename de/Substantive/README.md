@@ -1,10 +1,10 @@
-# German nouns
-A comma seperated list of ~ 79 thousand German nouns and their grammatical properties (*tense, number, gender*).
+# Deutsche Substantive
+Eine kommaseparierte Liste von ~ 79.000 deutschen Substantiven und ihren grammatischen Eigenschaften (*Tempus, Numerus, Genus*).
 
-More info about the different columns can be found [here](https://de.wiktionary.org/wiki/Hilfe:Flexionstabellen)
+Informationen zu den CSV-Spalten sind [hier](https://de.wiktionary.org/wiki/Hilfe:Flexionstabellen) zu finden.
 
-Compiled from [WiktionaryDE](https://de.wiktionary.org)
+Zusammengestellt aus dem [WiktionaryDE](https://de.wiktionary.org)
 
-License: [Creative Commons Attribution-ShareAlike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/deed.en).
+Lizenz: [Creative Commons Namensnennung-Weitergabe unter gleichen Bedingungen 3.0 Unported] (https://creativecommons.org/licenses/by-sa/3.0/deed.en).
 
-Sourced from [here](https://github.com/gambolputty/german-nouns)
+Quelle: [hier](https://github.com/gambolputty/german-nouns)
