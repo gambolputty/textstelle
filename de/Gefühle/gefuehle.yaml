@@ -120,7 +120,7 @@ Einsicht:
     dp: 
     ap:
 Entzücken:
-    gender: N
+    gender: X
     ep: Entzückens
     ns: Entzücken
     gs: Entzückens
@@ -186,7 +186,7 @@ Furcht:
     dp: 
     ap:
 Glück:
-    gender: N
+    gender: X
     ep: Glücks
     ns: Glück
     gs: Glücks
@@ -208,7 +208,7 @@ Großmut:
     dp: 
     ap:
 Heimweh:
-    gender: N
+    gender: X
     ep: Heimweh
     ns: Heimweh
     gs: Heimwehs
@@ -516,7 +516,7 @@ Trauer:
     dp: 
     ap:
 Ungemach:
-    gender: N
+    gender: X
     ep: Ungemachs
     ns: Ungemach
     gs: Ungemachs
@@ -527,7 +527,7 @@ Ungemach:
     dp: 
     ap:
 Ungeschick:
-    gender: N
+    gender: X
     ep: Ungeschicks
     ns: Ungeschick
     gs: Ungeschicks
@@ -538,7 +538,7 @@ Ungeschick:
     dp: 
     ap:
 Unglück:
-    gender: N
+    gender: X
     ep: Unglücks
     ns: Unglück
     gs: Unglücks
