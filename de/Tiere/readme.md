@@ -1,0 +1,2 @@
+## Tiere
+Knapp 200 handgesammelte Tiere. "ep" steht für epenthesis, das braucht man bei zusammengesetzten Wörtern. Neutrum ist mit X markiert, weil N in yaml [schon vergeben ist](http://yaml.org/type/bool.html).
