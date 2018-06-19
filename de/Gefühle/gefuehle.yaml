@@ -1,0 +1,693 @@
+Abschiedsschmerz:
+    gender: M
+    ep: Abschiedsschmerz
+    ns: Abschiedsschmerz
+    gs: Abschiedsschmerzes
+    ds: Abschiedsschmerz
+    as: Abschiedsschmerz
+    np: 
+    gp: 
+    dp: 
+    ap:
+Ärger:
+    gender: M
+    ep: Ärgers
+    ns: Ärger
+    gs: Ärgers
+    ds: Ärger
+    as: Ärger
+    np: 
+    gp: 
+    dp: 
+    ap:
+Andacht:
+    gender: F
+    ep: Andachts
+    ns: Andacht
+    gs: Andacht
+    ds: Andacht
+    as: Andacht
+    np: 
+    gp: 
+    dp: 
+    ap:
+Angrifflust:
+    gender: F
+    ep: Angrifflust
+    ns: Angrifflust
+    gs: Angrifflust
+    ds: Angrifflust
+    as: Angrifflust
+    np: 
+    gp: 
+    dp: 
+    ap:
+Angst:
+    gender: F
+    ep: Angst
+    ns: Angst
+    gs: Angst
+    ds: Angst
+    as: Angst
+    np: 
+    gp: 
+    dp: 
+    ap:
+Apathie:
+    gender: F
+    ep: Apathie
+    ns: Apathie
+    gs: Apathie
+    ds: Apathie
+    as: Apathie
+    np: 
+    gp: 
+    dp: 
+    ap:
+Aufregung:
+    gender: F
+    ep: Aufregungs
+    ns: Aufregung
+    gs: Aufregung
+    ds: Aufregung
+    as: Aufregung
+    np: 
+    gp: 
+    dp: 
+    ap:
+Begeisterung:
+    gender: F
+    ep: Begeisterungs
+    ns: Begeisterung
+    gs: Begeisterung
+    ds: Begeisterung
+    as: Begeisterung
+    np: 
+    gp: 
+    dp: 
+    ap: 
+Demut:
+    gender: F
+    ep: Demuts
+    ns: Demut
+    gs: Demut
+    ds: Demut
+    as: Demut
+    np: 
+    gp: 
+    dp: 
+    ap:
+Ekel:
+    gender: M
+    ep: Ekels
+    ns: Ekel
+    gs: Ekels
+    ds: Ekel
+    as: Ekel
+    np: 
+    gp: 
+    dp: 
+    ap:
+Einsicht:
+    gender: F
+    ep: Einsichts
+    ns: Einsicht
+    gs: Einsicht
+    ds: Einsicht
+    as: Einsicht
+    np: 
+    gp: 
+    dp: 
+    ap:
+Entzücken:
+    gender: N
+    ep: Entzückens
+    ns: Entzücken
+    gs: Entzückens
+    ds: Entzücken
+    as: Entzücken
+    np: 
+    gp: 
+    dp: 
+    ap:
+Empörung:
+    gender: F
+    ep: Empörungs
+    ns: Empörung
+    gs: Empörung
+    ds: Empörung
+    as: Empörung
+    np: 
+    gp: 
+    dp: 
+    ap:
+Entrüstung:
+    gender: F
+    ep: Entrüstungs
+    ns: Entrüstung
+    gs: Entrüstung
+    ds: Entrüstung
+    as: Entrüstung
+    np: 
+    gp: 
+    dp: 
+    ap:
+Freude:
+    gender: F
+    ep: Freuden
+    ns: Freude
+    gs: Freude
+    ds: Freude
+    as: Freude
+    np: 
+    gp: 
+    dp: 
+    ap:
+Fröhlichkeit:
+    gender: F
+    ep: Fröhlichkeits
+    ns: Fröhlichkeit
+    gs: Fröhlichkeit
+    ds: Fröhlichkeit
+    as: Fröhlichkeit
+    np: 
+    gp: 
+    dp: 
+    ap:
+Furcht:
+    gender: F
+    ep: Furcht
+    ns: Furcht
+    gs: Furcht
+    ds: Furcht
+    as: Furcht
+    np: 
+    gp: 
+    dp: 
+    ap:
+Glück:
+    gender: N
+    ep: Glücks
+    ns: Glück
+    gs: Glücks
+    ds: Glück
+    as: Glück
+    np: 
+    gp: 
+    dp: 
+    ap:
+Großmut:
+    gender: F
+    ep: Großmuts
+    ns: Großmut
+    gs: Großmut
+    ds: Großmut
+    as: Großmut
+    np: 
+    gp: 
+    dp: 
+    ap:
+Heimweh:
+    gender: N
+    ep: Heimweh
+    ns: Heimweh
+    gs: Heimwehs
+    ds: Heimweh
+    as: Heimweh
+    np: 
+    gp: 
+    dp: 
+    ap:
+Hilflosigkeit:
+    gender: F
+    ep: Hilflosigkeits
+    ns: Hilflosigkeit
+    gs: Hilflosigkeit
+    ds: Hilflosigkeit
+    as: Hilflosigkeit
+    np: 
+    gp: 
+    dp: 
+    ap:
+Hoffnung:
+    gender: F
+    ep: Hoffnungs
+    ns: Hoffnung
+    gs: Hoffnung
+    ds: Hoffnung
+    as: Hoffnung
+    np: 
+    gp: 
+    dp: 
+    ap:
+Kleinmut:
+    gender: F
+    ep: Kleinmuts
+    ns: Kleinmut
+    gs: Kleinmut
+    ds: Kleinmut
+    as: Kleinmut
+    np: 
+    gp: 
+    dp: 
+    ap:
+Kummer:
+    gender: M
+    ep: Kummer
+    ns: Kummer
+    gs: Kummers
+    ds: Kummer
+    as: Kummer
+    np: 
+    gp: 
+    dp: 
+    ap:
+Langeweile:
+    gender: F
+    ep: Langeweile
+    ns: Langeweile
+    gs: Langeweile
+    ds: Langeweile
+    as: Langeweile
+    np: 
+    gp: 
+    dp: 
+    ap:
+Leichtsinn:
+    gender: M
+    ep: Leichtsinns
+    ns: Leichtsinn
+    gs: Leichtsinns
+    ds: Leichtsinn
+    as: Leichtsinn
+    np: 
+    gp: 
+    dp: 
+    ap:
+Liebe:
+    gender: F
+    ep: Liebes
+    ns: Liebe
+    gs: Liebe
+    ds: Liebe
+    as: Liebe
+    np: 
+    gp: 
+    dp: 
+    ap:
+Lüsternheit:
+    gender: F
+    ep: Lüsternheits
+    ns: Lüsternheit
+    gs: Lüsternheit
+    ds: Lüsternheit
+    as: Lüsternheit
+    np: 
+    gp: 
+    dp: 
+    ap:
+Lust:
+    gender: F
+    ep: Lust
+    ns: Lust
+    gs: Lust
+    ds: Lust
+    as: Lust
+    np: 
+    gp: 
+    dp: 
+    ap:
+Lustlosigkeit:
+    gender: F
+    ep: Lustlosigkeits
+    ns: Lustlosigkeit
+    gs: Lustlosigkeit
+    ds: Lustlosigkeit
+    as: Lustlosigkeit
+    np: 
+    gp: 
+    dp: 
+    ap:
+Melancholie:
+    gender: F
+    ep: Melancholie
+    ns: Melancholie
+    gs: Melancholie
+    ds: Melancholie
+    as: Melancholie
+    np: 
+    gp: 
+    dp: 
+    ap:
+Missmut:
+    gender: M
+    ep: Missmuts
+    ns: Missmut
+    gs: Missmuts
+    ds: Missmut
+    as: Missmut
+    np: 
+    gp: 
+    dp: 
+    ap:
+Mordlust:
+    gender: F
+    ep: Mordlust
+    ns: Mordlust
+    gs: Mordlust
+    ds: Mordlust
+    as: Mordlust
+    np: 
+    gp: 
+    dp: 
+    ap:
+Müdigkeit:
+    gender: F
+    ep: Müdigkeits
+    ns: Müdigkeit
+    gs: Müdigkeit
+    ds: Müdigkeit
+    as: Müdigkeit
+    np: 
+    gp: 
+    dp: 
+    ap:
+Narzissmus:
+    gender: M
+    ep: Narzissmus
+    ns: Narzissmus
+    gs: Narzissmus
+    ds: Narzissmus
+    as: Narzissmus
+    np: 
+    gp: 
+    dp: 
+    ap:
+Neid:
+    gender: M
+    ep: Neid
+    ns: Neid
+    gs: Neids
+    ds: Neid
+    as: Neid
+    np: 
+    gp: 
+    dp: 
+    ap:
+Neugier:
+    gender: F
+    ep: Neugier
+    ns: Neugier
+    gs: Neugier
+    ds: Neugier
+    as: Neugier
+    np: 
+    gp: 
+    dp: 
+    ap:
+Nostalgie:
+    gender: F
+    ep: Nostalgie
+    ns: Nostalgie
+    gs: Nostalgie
+    ds: Nostalgie
+    as: Nostalgie
+    np: 
+    gp: 
+    dp: 
+    ap:
+Panik:
+    gender: F
+    ep: Panik
+    ns: Panik
+    gs: Panik
+    ds: Panik
+    as: Panik
+    np: 
+    gp: 
+    dp: 
+    ap:
+Rauflust:
+    gender: F
+    ep: Rauflust
+    ns: Rauflust
+    gs: Rauflust
+    ds: Rauflust
+    as: Rauflust
+    np: 
+    gp: 
+    dp: 
+    ap:
+Reue:
+    gender: F
+    ep: Reue
+    ns: Reue
+    gs: Reue
+    ds: Reue
+    as: Reue
+    np: 
+    gp: 
+    dp: 
+    ap:
+Rührung:
+    gender: F
+    ep: Rührungs
+    ns: Rührung
+    gs: Rührung
+    ds: Rührung
+    as: Rührung
+    np: 
+    gp: 
+    dp: 
+    ap:
+Schwermut:
+    gender: F
+    ep: Schwermuts
+    ns: Schwermut
+    gs: Schwermut
+    ds: Schwermut
+    as: Schwermut
+    np: 
+    gp: 
+    dp: 
+    ap:
+Sehnsucht:
+    gender: F
+    ep: Sehnsuchts
+    ns: Sehnsucht
+    gs: Sehnsucht
+    ds: Sehnsucht
+    as: Sehnsucht
+    np: 
+    gp: 
+    dp: 
+    ap:
+Sorge:
+    gender: F
+    ep: Sorgen
+    ns: Sorge
+    gs: Sorge
+    ds: Sorge
+    as: Sorge
+    np: 
+    gp: 
+    dp: 
+    ap:
+Trauer:
+    gender: F
+    ep: Trauer
+    ns: Trauer
+    gs: Trauer
+    ds: Trauer
+    as: Trauer
+    np: 
+    gp: 
+    dp: 
+    ap:
+Überdruss:
+    gender: M
+    ep: Überdruss
+    ns: Überdruss
+    gs: Überdrusses
+    ds: Überdruss
+    as: Überdruss
+    np: 
+    gp: 
+    dp: 
+    ap:
+Ungemach:
+    gender: N
+    ep: Ungemachs
+    ns: Ungemach
+    gs: Ungemachs
+    ds: Ungemach
+    as: Ungemach
+    np: 
+    gp: 
+    dp: 
+    ap:
+Ungeschick:
+    gender: N
+    ep: Ungeschicks
+    ns: Ungeschick
+    gs: Ungeschicks
+    ds: Ungeschick
+    as: Ungeschick
+    np: 
+    gp: 
+    dp: 
+    ap:
+Unglück:
+    gender: N
+    ep: Unglücks
+    ns: Unglück
+    gs: Unglücks
+    ds: Unglück
+    as: Unglück
+    np: 
+    gp: 
+    dp: 
+    ap:
+Unlust:
+    gender: F
+    ep: Unlust
+    ns: Unlust
+    gs: Unlust
+    ds: Unlust
+    as: Unlust
+    np: 
+    gp: 
+    dp: 
+    ap:
+Verbitterung:
+    gender: F
+    ep: Verbitterungs
+    ns: Verbitterung
+    gs: Verbitterung
+    ds: Verbitterung
+    as: Verbitterung
+    np: 
+    gp: 
+    dp: 
+    ap:
+Verzweiflung:
+    gender: F
+    ep: Verzweiflungs
+    ns: Verzweiflung
+    gs: Verzweiflung
+    ds: Verzweiflung
+    as: Verzweiflung
+    np: 
+    gp: 
+    dp: 
+    ap:
+Wehmut:
+    gender: F
+    ep: Wehmuts
+    ns: Wehmut
+    gs: Wehmut
+    ds: Wehmut
+    as: Wehmut
+    np: 
+    gp: 
+    dp: 
+    ap:
+Welthass:
+    gender: M
+    ep: Welthass
+    ns: Welthass
+    gs: Welthasses
+    ds: Welthass
+    as: Welthass
+    np: 
+    gp: 
+    dp: 
+    ap:
+Weltschmerz:
+    gender: M
+    ep: Weltschmerz
+    ns: Weltschmerz
+    gs: Weltschmerzes
+    ds: Weltschmerz
+    as: Weltschmerz
+    np: 
+    gp: 
+    dp: 
+    ap:
+Wollust:
+    gender: F
+    ep: Wollust
+    ns: Wollust
+    gs: Wollust
+    ds: Wollust
+    as: Wollust
+    np: 
+    gp: 
+    dp: 
+    ap:
+Wonne:
+    gender: F
+    ep: Wonne
+    ns: Wonne
+    gs: Wonne
+    ds: Wonne
+    as: Wonne
+    np: 
+    gp: 
+    dp: 
+    ap:
+Wut:
+    gender: F
+    ep: Wut
+    ns: Wut
+    gs: Wut
+    ds: Wut
+    as: Wut
+    np: 
+    gp: 
+    dp: 
+    ap:
+Zärtlichkeit:
+    gender: F
+    ep: Zärtlichkeits
+    ns: Zärtlichkeit
+    gs: Zärtlichkeit
+    ds: Zärtlichkeit
+    as: Zärtlichkeit
+    np: 
+    gp: 
+    dp: 
+    ap:
+Zorn:
+    gender: M
+    ep: Zornes
+    ns: Zorn
+    gs: Zorns
+    ds: Zorn
+    as: Zorn
+    np: 
+    gp: 
+    dp: 
+    ap:
+Zufriedenheit:
+    gender: F
+    ep: Zufriedenheits
+    ns: Zufriedenheit
+    gs: Zufriedenheit
+    ds: Zufriedenheit
+    as: Zufriedenheit
+    np: 
+    gp: 
+    dp: 
+    ap:
+Zweifel:
+    gender: M
+    ep: Zweifels
+    ns: Zweifel
+    gs: Zweifels
+    ds: Zweifel
+    as: Zweifel
+    np: 
+    gp: 
+    dp: 
+    ap:
