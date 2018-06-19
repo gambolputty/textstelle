@@ -3,6 +3,6 @@
 
 Texte wurden aus der Gutenberg-DE Edition 13 DVD-ROM (erschienen im November 2013) extrahiert.
 
-Download: [hier](https://www.dropbox.com/s/h4xjaijtm4tk8y7/CorpusofGermanLanguageFiction.zip?dl=0)
+**Download**: [hier](https://www.dropbox.com/s/h4xjaijtm4tk8y7/CorpusofGermanLanguageFiction.zip?dl=0)
 
 Quelle: [hier](https://figshare.com/articles/Corpus_of_German-Language_Fiction_txt_/4524680)
