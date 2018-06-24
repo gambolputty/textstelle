@@ -8,3 +8,7 @@ You can submit new Material via [this form](https://www.dropbox.com/request/aiA3
 A submission consists of:
 1. A readme file where you give your text collection a title, a short description and state the source of the collection
 2. files with text (.txt, .csv, json etc)
+
+# License
+
+This project and all it's text collections are licensed under the (Do What the Fuck You Want To Public License)[https://en.wikipedia.org/wiki/WTFPL]. 
