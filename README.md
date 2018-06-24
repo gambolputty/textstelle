@@ -11,4 +11,4 @@ A submission consists of:
 
 ## License
 
-This project and all it's text collections are licensed under the (Do What the Fuck You Want To Public License)[https://en.wikipedia.org/wiki/WTFPL]. 
+This project and all it's text collections are licensed under the [Do What the Fuck You Want To Public License](https://en.wikipedia.org/wiki/WTFPL). 
