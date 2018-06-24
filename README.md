@@ -4,7 +4,7 @@ Textstelle is a collection of corpora for the creation of bots and other things 
 
 # How to submit new material
 
-You can submit new Material via [this form](https://www.dropbox.com/request/aiA3o71oUgY5HMT9CLyd) or, if you are comfortable with GitHub, you can submit material by creating a pull request.
+You can submit new Material via [this form](https://www.dropbox.com/request/aiA3o71oUgY5HMT9CLyd) or, if you are comfortable with GitHub, you can submit material by creating a [pull request](https://help.github.com/articles/about-pull-requests/).
 A submission consists of:
 1. A readme file where you give your text collection a title, a short description and state the source of the collection
 2. files with text (.txt, .csv, json etc)
