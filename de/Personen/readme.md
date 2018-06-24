@@ -17,11 +17,11 @@ Beispiel _Alan Turing_:
 * **Kurzbeschreibung**
   * britischer Logiker, Mathematiker und Kryptoanalytiker
 * **Geburtsdatum**
-  * 23. Juni 1912
+  * "23. Juni 1912"
 * **Geburtsort**
   * London
 * **Sterbedatum**
-  * 7. Juni 1954
+  * "7. Juni 1954"
 * **Sterbeort**
   * Wilmslow|Cheshire
 * **Kategorien**
