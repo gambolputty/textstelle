@@ -9,6 +9,7 @@ Agra
 Aguascalientes
 Ahmedabad
 Ahvaz
+Al-Hasa
 Aleppo
 Alexandria
 Algier
@@ -18,12 +19,18 @@ Almaty
 Amman
 Amritsar
 Amsterdam
+Angkor
 Ankara
 Anshan
 Antalya
 Antananarivo
+Antiochia
+Antwerpen
+Anuradhapura
 Anyang
+Aquileia
 Asansol
+Astrachan
 Asunción
 Athen
 Atlanta
@@ -35,6 +42,7 @@ Baku
 Baltimore
 Bamako
 Bandung
+Bangalore
 Bangkok
 Baoding
 Baoji
@@ -58,9 +66,13 @@ Bhopal
 Birmingham
 Bogor
 Bogotá
+Bombay
 Boston
+Bradford
 Brasília
 Brazzaville
+Bremen
+Breslau
 Brisbane
 Brüssel
 Bucaramanga
@@ -69,9 +81,13 @@ Buenos Aires
 Bukarest
 Bursa
 Busan
+Caesarea Maritima
+Cairns
 Calgary
 Cali
 Campinas
+Canberra
+Capua
 Caracas
 Cartagena
 Casablanca
@@ -87,7 +103,9 @@ Chennai
 Chicago
 Chifeng
 Chittagong
+Chișinău
 Chongqing
+Christchurch
 Cincinnati
 Ciudad Juárez
 Cixi
@@ -104,45 +122,66 @@ Daegu
 Daejeon
 Dakar
 Dalian
+Dallas
 Dallas-Fort Worth
 Damaskus
 Dammam
 Daqing
 Daressalam
+Darwin Territ
 Datong
 Davao City
 Delhi
+Den Haag
 Denpasar
+Denver
 Denver-Aurora
 Detroit
 Dhaka
 Dhanbad
+Dnipro
+Donezk
 Dongguan
+Dortmund
 Douala
+Dresden
 Dschidda
 Dubai
 Dublin
 Durban
+Düsseldorf
+Edinburgh
 Edmonton
+Ekurhuleni
+Ephesos
 Erbil
+Essen
+eThekwini
 Faisalabad
 Florianópolis
 Fortaleza
 Foshan
+Frankfurt am Main
 Freetown
 Fukuoka
+Funafuti
 Fushun
 Fuzhou
 Fès
 Gaziantep
+Geelong
+Genua
 Ghom
+Gizeh
 Glasgow
 Goiânia
+Gold Coast
 Gorki
 Goyang
 Guadalajara
 Guandong
 Guangzhou
+Guarulhos
 Guatemala-Stadt
 Guayaquil
 Guilin
@@ -151,13 +190,16 @@ Gujranwala
 Guwahati
 Gwalior
 Gwangju
+Göteborg
 Haifa
 Haikou
 Hama
 Hamamatsu
 Hamburg
+Hamilton
 Handan
 Hangzhou
+Hannover
 Hanoi
 Harare
 Harbin
@@ -167,9 +209,12 @@ Helsinki
 Hengyang
 Hiroshima
 Ho-Chi-Minh-Stadt
+Hobart
 Hohhot
+Homel
 Homs
 Hongkong
+Honiara
 Houston
 Huainan
 Huai’an
@@ -177,21 +222,23 @@ Huambo
 Hubli-Dharwad
 Huizhou
 Hyderabad
-Hyderabad
 Hải Phòng
 Ibadan
 Incheon
 Indianapolis
 Indore
+Ischewsk
 Isfahan
 Islamabad
 Istanbul
+Istanbul/Konstantinopel
 Izmir
 Jabalpur
 Jacksonville
 Jaipur
 Jakarta
 Jamshedpur
+Jaroslawl
 Jekaterinburg
 Jerewan
 Jiangmen
@@ -206,6 +253,7 @@ Joinville
 João Pessoa
 Kabul
 Kaduna
+Kaifeng
 Kairo
 Kalkutta
 Kampala
@@ -218,54 +266,76 @@ Kaohsiung
 Kapstadt
 Karadsch
 Karatschi
+Karthago
 Kasan
 Kathmandu
+Khartum
 Khartum-Omdurman
 Khulna
 Kiew
 Kigali
 Kinshasa
+Kirow
 Kisangani
 Kollam
+Konstantinopel
 Konya
 Kopenhagen
+Korinth
 Kota
 Kozhikode
+Krakau
+Krasnodar
 Krasnojarsk
+Krywyj Rih
 Kuala Lumpur
 Kujbyschew
 Kumasi
 Kunming
 Kuwait-Stadt
+Kyōto
 Köln
+La Matanza
 La Paz
+Lae
 Lagos
 Lahore
 Lakhnau
 Lanzhou
 Las Vegas
+Leeds
+Leipzig
+Lemberg
+Leningrad
 León
 Lianyungang
 Lille
 Lima
 Linyi
+Lipezk
 Lissabon
 Liuzhou
+Lomé
 London
+Los Angeles
 Los Angeles-Long Beach
 Louisville
 Luanda
 Lubumbashi
+Lucknow
 Ludhiana
 Luoyang
 Lusaka
 Lyon
 Maceió
+Machatschkala
 Madrid
 Madurai
 Mailand
+Majuro
 Makassar
 Malappuram
+Managua
 Manaus
 Manchester
 Mandalay
@@ -282,6 +352,7 @@ Medellín
 Medina
 Mekka
 Melbourne
+Melekeok
 Memphis
 Mendoza
 Merath
@@ -290,6 +361,7 @@ Mexiko-Stadt
 Miami
 Mianyang
 Milwaukee
+Minneapolis
 Minneapolis-St. Paul
 Minsk
 Mogadischu
@@ -300,12 +372,16 @@ Montevideo
 Montreal
 Moradabad
 Moskau
+Mossul
 Mosul
 Multan
 Mumbai
 Mysore
+Málaga
 Mérida
 München
+N'Djamena
+Nabereschnyje Tschelny
 Nagoya
 Nagpur
 Nairobi
@@ -315,44 +391,64 @@ Nanjing
 Nanning
 Nantong
 Nanyang
+Napier
 Nashik
 Nashville-Davidson
 Natal
 Naypyidaw
 Neapel
+New York
+New York City
 New York-Newark
+Newcastle
+Neyshabur
 Niamey
 Ningbo
 Nischni Nowgorod
 Nowosibirsk
+Nukuʻalofa
+Nürnberg
 N’Djamena
 Odessa
 Ohio
 Omsk
 Onitsha
+Orenburg
 Orlando
 Osaka-Kōbe
+Osaka-Kōbe-Kyōto
+Oslo
 Ottawa-Gatineau
 Ouagadougou
 Palembang
+Palermo
+Palikir
 Panama-Stadt
 Paris
+Patan
 Patna
 Pekanbaru
 Peking
+Pensa
+Pergamon
+Perm
 Perth
 Peschawar
 Philadelphia
 Phnom Penh
+Phoenix
 Phoenix-Mesa
 Pittsburgh
 Pjöngjang
 Port Elizabeth
 Port Harcourt
+Port Moresby
+Port Vila
 Port-au-Prince
 Portland
 Porto
 Porto Alegre
+Posen
 Prag
 Pretoria
 Providence
@@ -376,14 +472,19 @@ Ranchi
 Rangun
 Rawalpindi
 Recife
+Rhein-Ruhrzum
 Riad
 Richmond
+Riga
 Rio de Janeiro
+Riverside
 Riverside-San Bernardino
 Rizhao
+Rjasan
 Rom
 Rosario
 Rostow am Don
+Rotterdam
 Sacramento
 Salem
 Salt Lake City
@@ -392,8 +493,8 @@ Samara
 Samut Prakan
 San Antonio
 San Diego
+San Francisco
 San Francisco-Oakland
-San José
 San José
 San Juan
 San Luis Potosí
@@ -401,30 +502,44 @@ San Salvador
 Sana'a
 Sankt Petersburg
 Santa Cruz de la Sierra
+Santiago
 Santiago de Chile
 Santo Domingo
+Saporischschja
 Sapporo
+Saragossa
+Saratow
 Schardscha
+Schiras
 Schiraz
 Seattle
+Seleukia-Ktesiphon
 Semarang
 Sendai
 Seoul
+Sevilla
 Shanghai
 Shantou
 Shaoxing
+Sheffield
 Shenyang
 Shenzhen
 Shijiazhuang
 Singapur
+Skopje
 Sofia
+South Tarawa
 Srinagar
 St. Louis
+St. Petersburg
 Stockholm
+Stuttgart
 Sulaimaniyya
+Sunshine Coast
 Suqian
 Surabaya
 Surat
+Suva
 Suwon
 Suzhou
 Swerdlowsk
@@ -433,50 +548,67 @@ São Luís
 São Paulo
 Taichung
 Taipeh
+Taipei
 Taiyuan
 Taizhou
-Taizhou
 Tai’an
+Tampa
 Tampa-St. Petersburg
 Tangshan
 Taschkent
 Tegucigalpa
 Teheran
 Tel Aviv-Jaffa
+Tenochtitlán
 Thiruvananthapuram
 Thrissur
 Tianjin
 Tiflis
 Tijuana
+Tirana
 Tiruchirappalli
 Tiruppur
+Tokio
 Tokio-Yokohama
+Toljatti
 Toluca de Lerdo
+Toowoomba
 Toronto
 Torreón
+Townsville
 Tripolis
 Tscheljabinsk
+Tshwane
 Tunis
 Turin
 Täbris
+Täbriz
 Ufa
 Ulaanbaatar
+Ulanbator
+Uljanowsk
 Vadodara
 Valencia
 Vancouver
 Varanasi
+Venedig
 Vereeniging
+Vijayanagar
 Vijayawada
+Vilnius
 Virginia Beach
 Visakhapatnam
 Vitória
 Warschau
-Washington, D.C.
+Washington D.C.
 Weifang
+Wellington
 Wenzhou
 West Yorkshire
 Wien
 Wolgograd
+Wollongong
+Woronesch
 Wuhan
 Wuhu
 Wuxi
@@ -490,11 +622,13 @@ Yancheng
 Yangzhou
 Yantai
 Yaoundé
+Yaren
 Yichang
 Yinchuan
 Yingkou
 Yiwu
 Yongin
+Zagreb
 Zaozhuang
 Zhanjiang
 Zhejiang
@@ -506,3 +640,4 @@ Zhuzhou
 Zibo
 Zürich
 Ürümqi
+Łódź
