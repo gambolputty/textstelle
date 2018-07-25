@@ -1,0 +1,545 @@
+accountant
+actor
+administrator
+adorable creature
+agnostic
+American
+anarchist
+angler
+animator
+anthropologist
+antique dealer
+apprentice
+archaeologist
+architect
+archivist
+art critic
+artist
+assistant
+assistant chef
+astrologist
+astronaut
+astronomer
+astrophysicist
+atheist
+athlete
+au pair
+auctioneer
+author
+babysitter
+baker
+ballet dancer
+bank clerk
+banker
+barber
+bartender
+baseball player
+basketball player
+bass player
+beachcomber
+beautician
+believer
+biker
+bingo player
+biologist
+birth attendant
+blacksmith
+blogger
+bookkeeper
+boutique owner
+boxer
+boy
+bricklayer
+buddhist
+building contractor
+burglar
+bus driver
+butcher
+butler
+cabinet minister
+cake decorator
+calligrapher
+camera operator
+camper
+canteen assistant
+car mechanic
+card player
+cardiologist
+care worker
+caregiver
+caretaker
+carpenter
+cartographer
+cartoonist
+cashier
+cat owner
+caterer
+catholic
+chair person
+chamber-maid
+champ
+chauvinist
+cheerleader
+chef
+chemist
+chess player
+child educator
+child-minder
+chiropractor
+chocolate lover
+choreographer
+christian
+cinema goer
+clairvoyant
+cleaner
+clerk
+client
+climber
+clinical psychologist
+clown
+colonel
+comedian
+communist
+composer
+computer programmer
+computer specialist
+computer technician
+conqueror
+conservationist
+conservative
+construction worker
+consultant
+consumer
+cook
+coordinator
+cop
+cosmologist
+counseling psychologist
+counsellor
+courier
+court reporter
+craft worker
+crane operator
+criminal
+crook
+crossfit cunt
+cryptographer
+cult member
+curator
+customer
+customs inspector
+customs officer
+cyclist
+cynic
+dance instructor
+dancer
+data processor
+database administrator
+deacon
+demigod
+dental hygienist
+dental technician
+dentist
+designer
+detective
+devil
+dictator
+dietician
+diplomat
+diva
+DJ
+doctor
+dog owner
+door keeper
+douche
+dressmaker
+driver
+driving instructor
+drug addict
+drug dealer
+drug fiend
+drummer
+dualist
+economist
+editor
+educational psychologist
+electrician
+embezzler
+engine-driver
+engineer
+entertainer
+entrepreneur
+environmentalist
+estate agent
+executive
+executor
+exercise instructor
+existentialist
+exorcist
+exotic dancer
+explorer
+factory manager
+fan
+farmer
+fashion model
+fashionista
+father
+feminist
+fencer
+film director
+film star
+financial adviser
+financial analyst
+firefighter
+flight attendant
+florist
+flute player
+fool
+football player
+forensic psychologist
+forest ranger
+fortune teller
+funeral director
+game warden
+gardener
+gay
+geek
+general
+general manager
+geologist
+German
+ghost writer
+giant
+girl
+gladiator
+gnome
+goalkeeper
+god
+goldsmith
+golfer
+government official
+governor
+grammar nazi
+graphic designer
+groundkeeper
+guard
+guitar player
+gymnast
+gynaecologist
+hacker
+hairdresser
+head teacher
+health visitor
+heavy equipment operator
+hiker
+hipster
+historian
+history professor
+hitchhiker
+hobo
+homeless person
+homemaker
+homeowner
+horse rider
+horse trainer
+hotel guest
+hotel manager
+housekeeper
+humanitarian
+humanities professor
+hunter
+ice skater
+idiot
+infant teacher
+informant
+inmate
+innkeeper
+interior decorator
+interpreter
+inventor
+investor
+islamist
+it consultant
+italian
+jailor
+janitor
+jeweler
+jogger
+journalist
+judge
+juggler
+juror
+karaoke singer
+kayaker
+kid
+killer
+kindergarten teacher
+king
+knight
+knitter
+lab technician
+landscape gardener
+law clerk
+law professor
+lawyer
+leader
+liar
+libertarian
+librarian
+lieutenant
+lifeguard
+lighthouse keeper
+linguist
+lodger
+lorry driver
+loser
+magician
+magician's assistant
+make up artist
+manager
+maniac
+manicurist
+masochist
+mathematician
+mayor
+mechanic
+medical doctor
+metallurgist
+meteorologist
+milliardaire
+millionaire
+miner
+model
+monarch
+monk
+monster
+moron
+mother
+mountain climber
+mountaineer
+murderer
+music lover
+musician
+neighbour
+nerd
+neurologist
+neurosurgeon
+newborn
+news reader
+ninja
+non-smoker
+Norse god
+novelist
+nun
+nurse
+nursery teacher
+nursery worker
+nutritionist
+occupational therapist
+oceanographer
+office worker
+opportunist
+optimist
+orchestra conductor
+orthodontist
+osteopath
+painter
+palm reader
+parachutist
+parent
+pastry chef
+patient
+pawnbroker
+pedestrian
+pediatrician
+pensioner
+perfectionist
+person
+personal trainer
+pessimist
+pharmacist
+philanthropist
+philosopher
+photographer
+physician
+physicist
+physics student
+physiotherapist
+piano player
+pilot
+pioneer
+pirate
+playgroup leader
+plumber
+poet
+police inspector
+police officer
+police sergeant
+political activist
+politician
+pope
+pornographer
+porter
+postal worker
+postmen
+postmodernist
+president
+priest
+primary school teacher
+prince
+princess
+prison guard
+prisoner
+private detective
+probation officer
+procrastinator
+professional athlete
+professor
+programmer
+projectionist
+proofreader
+prostitute
+prosumer
+protestor
+psychiatrist
+psychology student
+publisher
+queen
+racing car driver
+radio announcer
+radio technician
+reader
+rebel
+receptionist
+relative
+replicant
+reporter
+rescue worker
+research scientist
+researcher
+retard
+road worker
+robot
+romantic novelist
+roofer
+rubbish collector
+runner
+sadist
+sadomasochist
+sailor
+sales assistant
+salesperson
+satanist
+scholar
+schoolchildren
+scientist
+screenwriter
+scuba diver
+sculptor
+secularist
+serial killer
+sex worker
+sheriff
+shoemaker
+shoplifter
+shopper
+singer
+single parent
+skateboarder
+skater
+skeptic
+skier
+slave
+smuggler
+snooker player
+soccer mom
+social worker
+socialite
+sociologist
+solarium user
+soldier
+sound engineer
+spectator
+speech therapist
+sports coach
+stalker
+star
+statistician
+stockbroker
+stripper
+structural engineer
+student
+sunbather
+superstar
+supervisor
+surfer
+surgeon
+survivor
+suspect
+swimmer
+switchboard operator
+synchronized swimmer
+systems analyst
+tailor
+tap dancer
+tarot card reader
+tattoo artist
+tattooist
+tax advisor
+taxi driver
+taxidermist
+teacher
+technician
+technologist
+teenager
+telephone operator
+tennis player
+terrorist
+theatre director
+therapist
+ticket inspector
+toddler
+toolmaker
+tour guide
+tourist
+trade unionist
+traffic engineer
+train conductor
+translator
+travel agent
+trend setter
+truck driver
+trumpet player
+tuba player
+typist
+typographer
+tyre fitter
+undertaker
+university professor
+urologist
+vegetarian
+vet
+vice chancellor
+victim
+violinist
+volunteer
+waiter
+warden
+weaver
+wedding planner
+weight lifter
+weirdo
+welder
+whiner
+whore
+wine connoisseur
+winner
+wood carver
+wood worker
+worker
+wrestler
+writer
+X-ray technician
+youngster
+zombie
+zoologist
